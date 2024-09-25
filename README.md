@@ -1,3 +1,3 @@
 # jeek-tabnews
 
-Projeto de programação.
+Estudo sobre documentação web.
