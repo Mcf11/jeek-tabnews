@@ -1,3 +1,3 @@
 # jeek-tabnews
 
-Estudo sobre documentação web.
+Study about web documentation
